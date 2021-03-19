@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EstudiantesEduardo</string>
+    <string name="text_version">UdelP Estudiantes v0.1</string>
+    <string name="text_home">Inicio</string>
+    <string name="text_detail">Detalles</string>
+    <string name="text_list">Lista</string>
+    <string name="text_list_view">Ver Lista</string>
+    <string name="text_form_view">Editar/Eliminar Formulario</string>
+    <string name="text_exit_view">Salir</string>
+    <string name="txt_my_form">Mi Formulario</string>
+    <string name="hint_name">Escribe tu Nombre</string>
+    <string name="hint_lastname">Escribe tus Apellidos</string>
+    <string name="text_unfinish_studies">Trunco</string>
+    <string name="text_university_intern">Pasante</string>
+    <string name="text_finished_studies">Titulado</string>
+    <string name="text_image_description">Logo</string>
+    <string name="leer">leer</string>
+    <string name="deporte">deporte</string>
+    <string name="viajar">viajar</string>
+    <string name="text_financial_assistance">¿Tiene asistencia financiera?</string>
+    <string name="text_ok">Aceptar</string>
+    <string name="text_delete">Eliminar</string>
+    <string name="text_EditarEliminar">"Editar o Eliminar "</string>
+    <string name="text_EditarEstudiante">Editar Estudiante</string>
+    <string name="text_editar">Editar</string>
+    <string name="text_recycler">Reciclar</string>
+    <string name="text_list_Recycler_view">Ver Recycler View</string>
+    <string name="hint_date">Escribe la fecha</string>
+
+</resources>
